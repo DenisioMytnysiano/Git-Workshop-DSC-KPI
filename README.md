@@ -6,10 +6,10 @@
 - How to use git in your projects on the example of calculator app
 - Benefits of Git
 - Main Git commands:
-  -git clone
-  -git push
-  -git add, git commit
-  -git branch and many others
+  - git clone
+  - git push
+  - git add, git commit
+  - git branch and many others
 - Piculiarities of branching in Git
 - GUI clients for Git
 
