@@ -14,7 +14,7 @@
 - GUI clients for Git
 
 ## To complete our worshop successfully you have to:
-1. create git repository
+1. create git account
 2. install python3 via [link](https://www.python.org/downloads/)
 3. install git bash via [link](https://git-scm.com/downloads)
 4. clone this repository to your local machine to get all necessary materials
