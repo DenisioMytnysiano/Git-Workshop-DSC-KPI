@@ -25,4 +25,5 @@
 2. Building Tools With Github Chris Dawson, Ben Straub
 3. Git Pocket Guide A Working Introduction Richard E. Silverman
 4. Our [presentation](https://drive.google.com/file/d/1Ldtg7QNTr74OvCWxN4D-vwYOl9C6nkV1/view?usp=sharing)
+5. [Learn Git Branching](https://learngitbranching.js.org/?locale=ru_RU)
 
