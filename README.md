@@ -14,9 +14,11 @@
 - GUI clients for Git
 
 ## To complete our worshop successfully you have to:
-1. install python3 via [link](https://www.python.org/downloads/)
-2. clone this repository to get all necessary materials
-3. be positive and creative :)
+1. create git repository
+2. install python3 via [link](https://www.python.org/downloads/)
+3. install git bash via [link](https://git-scm.com/downloads)
+4. clone this repository to your local machine to get all necessary materials
+5. be positive and creative :)
 
 ## Sources and materials
 1. Professional Git 2017 Brent Laster
