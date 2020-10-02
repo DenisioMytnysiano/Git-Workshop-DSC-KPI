@@ -5,7 +5,7 @@
 - Git as the most popular VCS
 - How to use git in your projects on the example of calculator app
 - Benefits of Git
-- Main Git commands
+- Main Git commands:
   -git clone
   -git push
   -git add, git commit
@@ -14,9 +14,9 @@
 - GUI clients for Git
 
 ## To complete our worshop successfully you have to:
-- install python3 via [link](https://www.python.org/downloads/)
-- download all necessary materials [link]()
-- be positive and creative :)
+1. install python3 via [link](https://www.python.org/downloads/)
+2. download all necessary materials via [link]()
+3. be positive and creative :)
 
 ## Sources and materials
 1. Professional Git 2017 Brent Laster
