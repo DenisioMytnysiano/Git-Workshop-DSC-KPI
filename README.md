@@ -15,7 +15,7 @@
 
 ## To complete our worshop successfully you have to:
 1. install python3 via [link](https://www.python.org/downloads/)
-2. download all necessary materials via [link]()
+2. clone this repository to get all necessary materials
 3. be positive and creative :)
 
 ## Sources and materials
