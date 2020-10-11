@@ -21,7 +21,7 @@
   - Create github account (you are already on this site:-D)
   - Create empty folder and open it
   - By right click choose in the context menu "Git Bash Here"
-  - Configure Git [Instructions](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
+  - Configure Git: [Instructions](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
   - Type into the cli following command: git clone https://github.com/DenisioMytnysiano/Git-Workshop-DSC-KPI
 5. be positive and creative :)
 
