@@ -18,10 +18,10 @@
 2. install python3 via [link](https://www.python.org/downloads/)
 3. install git bash via [link](https://git-scm.com/downloads)
 4. clone this repository to your local machine to get all necessary materials:
-  1. Create github account (you are already on this site:-D)
-  2. Create empty folder and open it
-  3. By right click choose in the context menu "Git Bash Here"
-  4. Type into the cli following command: git clone https://github.com/DenisioMytnysiano/Git-Workshop-DSC-KPI
+  - Create github account (you are already on this site:-D)
+  - Create empty folder and open it
+  - By right click choose in the context menu "Git Bash Here"
+  - Type into the cli following command: git clone https://github.com/DenisioMytnysiano/Git-Workshop-DSC-KPI
 5. be positive and creative :)
 
 ## Sources and materials
