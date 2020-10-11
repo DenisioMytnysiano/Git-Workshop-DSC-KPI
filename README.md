@@ -17,13 +17,17 @@
 1. create git account
 2. install python3 via [link](https://www.python.org/downloads/)
 3. install git bash via [link](https://git-scm.com/downloads)
-4. clone this repository to your local machine to get all necessary materials
+4. clone this repository to your local machine to get all necessary materials:
+  1. Create github account (you are already on this site:-D)
+  2. Create empty folder and open it
+  3. By right click choose in the context menu "Git Bash Here"
+  4. Type into the cli following command: git clone https://github.com/DenisioMytnysiano/Git-Workshop-DSC-KPI
 5. be positive and creative :)
 
 ## Sources and materials
 1. Professional Git 2017 Brent Laster
 2. Building Tools With Github Chris Dawson, Ben Straub
 3. Git Pocket Guide A Working Introduction Richard E. Silverman
-4. Our [presentation](https://drive.google.com/file/d/1Ldtg7QNTr74OvCWxN4D-vwYOl9C6nkV1/view?usp=sharing)
+4. Our [presentation]()
 5. [Learn Git Branching](https://learngitbranching.js.org/?locale=ru_RU)
 
