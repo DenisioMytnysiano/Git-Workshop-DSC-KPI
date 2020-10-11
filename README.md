@@ -1,5 +1,5 @@
 # Welcome to DSC KPI workshop on Git
-## Today we will are going to discuss:
+## Today we are going to discuss:
 - Open Source ideology
 - What is a VCS and what it is used for
 - Git as the most popular VCS
