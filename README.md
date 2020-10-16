@@ -25,10 +25,13 @@
   - Type into the cli following command: git clone https://github.com/DenisioMytnysiano/Git-Workshop-DSC-KPI
 5. be positive and creative :)
 
+## Repository with results of workshop
+https://github.com/DenisioMytnysiano/DemoGit
+
 ## Sources and materials
 1. Professional Git 2017 Brent Laster
 2. Building Tools With Github Chris Dawson, Ben Straub
 3. Git Pocket Guide A Working Introduction Richard E. Silverman
-4. Our [presentation]()
+4. Our [presentation](https://drive.google.com/drive/u/0/folders/17PvG6J0-QAjTGCJPcaAa_4kaHNREu1p6)
 5. [Learn Git Branching](https://learngitbranching.js.org/?locale=ru_RU)
 
